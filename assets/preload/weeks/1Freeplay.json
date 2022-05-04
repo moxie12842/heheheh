@@ -1,0 +1,104 @@
+{
+	"songs": [
+		[
+			"broadcasting",
+			"nikku",
+			[
+				255,
+				20,
+				147
+			]
+		],
+		[
+			"mirror magic",
+			"nikku",
+			[
+				255,
+				20,
+				147
+			]
+		],
+		[
+			"fandomania",
+			"nikku",
+			[
+				255,
+				20,
+				147
+			]
+		],
+		[
+			"killer queen",
+			"nikku",
+			[
+				255,
+				20,
+				147
+			]
+		],
+		[
+			"hyperfunk",
+			"nikku",
+			[
+				255,
+				20,
+				147
+			]
+		],
+		[
+			"sugarcrush",
+			"nikku",
+			[
+				255,
+				20,
+				147
+			]
+		],
+		[
+			"smokebomb",
+			"nikku",
+			[
+				255,
+				20,
+				147
+			]
+		],
+		[
+			"overdrive",
+			"nikku",
+			[
+				255,
+				20,
+				147
+			]
+		],
+		[
+			"expurgated",
+			"nikku",
+			[
+				255,
+				20,
+				147
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

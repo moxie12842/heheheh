@@ -1,0 +1,59 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"thunderstorm",
+			"nikku",
+			[
+				255,
+				0,
+				135
+			]
+		],
+		[
+			"CG megamix",
+			"nikku",
+			[
+				255,
+				0,
+				135
+			]
+		],
+		[
+			"promenade",
+			"nikku",
+			[
+				255,
+				0,
+				135
+			]
+		],
+		[
+			"deathmatch",
+			"nikku",
+			[
+				255,
+				0,
+				135
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
